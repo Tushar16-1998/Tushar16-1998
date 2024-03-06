@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there! 👋 I'm Tushar Sunder, a passionate and detail-oriented junior web developer on a journey to transform ideas into interactive and user-friendly digital experiences. My journey in web development began with a fascination for crafting elegant and efficient code.
+Hello there! 👋 I'm Tushar Sunder, a passionate and detail-oriented junior Full Stack Web Developer on a journey to transform ideas into interactive and user-friendly digital experiences. My journey in web development began with a fascination for crafting elegant and efficient code.
 
 
 ## 🌐 Socials:
